@@ -1,4 +1,4 @@
 /node_modules
-
+node_modules/
 push.sh
 update.sh
